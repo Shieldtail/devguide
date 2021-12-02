@@ -62,6 +62,9 @@
         <li><a href="#production">Production</a></li>
       </ul>
     <li><a href="#api">API</a></li>
+    <ul>
+      <li><a href="#platforms">API Platforms</a></li>
+    </ul>
     <li><a href="#contributing">Contribution</a></li>
     <li><a href="#code-of-conduct">Code of Conduct</a></li>
     <li><a href="#support">Support</a></li>

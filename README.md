@@ -65,12 +65,12 @@
     <ul>
       <li><a href="#platforms">API Platforms</a></li>
     </ul>
-    <li><a href="#contributing">Contribution</a></li>
     <li><a href="#code-of-conduct">Code of Conduct</a></li>
+    <li><a href="#contributing">Contribution</a></li>
+    <li><a href="#contact">Contact</a></li>
     <li><a href="#support">Support</a></li>
     <li><a href="#sponsor">Sponsore us</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>

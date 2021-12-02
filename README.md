@@ -29,9 +29,9 @@
     <br />
     <a href="https://youtube.com">View Demo</a>
     ·
-    <a href="https://github.com/shieldtail/shieldtail/issues">Report Bug</a>
+    <a href="https://github.com/Shieldtail/Shieldtail/issues/new?assignees=&labels=&template=bug_report.md&title=">Report Bug</a>
     ·
-    <a href="https://github.com/shieldtail/shieldtail/issues">Request Feature</a>
+    <a href="https://github.com/Shieldtail/Shieldtail/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
   </p>
 </div>
 

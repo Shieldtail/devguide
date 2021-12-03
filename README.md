@@ -48,7 +48,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started-with-frontend">Getting Started with Front-end</a>
       <ul>
         <li><a href="#roadmap">Roadmap</a></li>
         <li><a href="#prerequisites">User Interface</a></li>
@@ -122,7 +122,7 @@ We use mordern programming languages and platforms which produces reliability, W
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started with frontend
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.

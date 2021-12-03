@@ -100,7 +100,7 @@ This Document is for `Developers` & `contributers` only.
 
 ### Built With
 
-We use mordern and emerging programming languages for development, Which are as follow:
+We use mordern programming languages and platforms which produces reliability, Which are as follow:
 
 * [Python](https://www.python.org/)
 * [Django Framework - python](https://docs.djangoproject.com/en/3.2/)

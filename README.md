@@ -48,11 +48,11 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started-with-frontend">Getting Started with Front-end</a>
+      <a href="#getting-started-with-frontend">Getting Started with Frontend</a>
       <ul>
-        <li><a href="#roadmap">Roadmap</a></li>
-        <li><a href="#prerequisites">User Interface</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#languages">Languages</a></li>
+        <li><a href="#Brand-Consideration">Brand Consideration</a></li>
+        <li><a href="#Pages">Pages</a></li>
       </ul>
     </li>
     <li><a href="#usage">Back-end</a></li>
@@ -82,7 +82,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Django framework is more famouse for its security and dynamic programming techniques, We observed the demand of Django CMS as we only have standalone outstanding wagtail CMS available on internet so here we are making some effort to make a reliable and modern CMS as easy as wordpress.
+Django framework is more famous for its security and dynamic programming techniques, We observed the demand of Django CMS as we only have standalone outstanding wagtail CMS available on internet so here we are making some effort to make a reliable and modern CMS as easy as Wordpress.
 Shieldtail is a lightweight CMS for Django framework, Which makes secure development more easy for developer who are more concerned with the security issues.
 
 Here's why chossing Shieldtail:
@@ -123,49 +123,54 @@ We use mordern programming languages and platforms which produces reliability, W
 
 <!-- GETTING STARTED -->
 ## Getting Started with frontend
+_Every contributer has full right to suggest more variations in frontend as we are not stick to the given images only_ </br>
+_SUGGEST NEW FEATURES/VARIATIONS IN [FEATURES BOX](https://github.com/Shieldtail/development-doc/issues/new?assignees=&labels=&template=feature_request.md&title=)_ </br> </br>
+Front-end consist of 15 different pages and more to come as we are very encouraged to develope exciting features.</br>
+List of pages is as follows:
+* `Sign up`
+* `Login`
+* `Dashboard`
+* `Users`
+* `Media library`
+* `Pages`
+* `Theme`
+* `Plugins`
+* `Appearance`
+* `Settings`
+* `Push to Github`
+* `Deploy to Production`
+* `Contact Support`
+* `Privacy Policy`
+* `Terms & Services`
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### Languages
 
-### Prerequisites
+* [HTML5](https://www.w3schools.com/html/default.asp)
+* [CSS](https://www.w3schools.com/css/default.asp)
+* [Javascript](https://www.w3schools.com/js/default.asp)
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
-### Installation
+### Brand Consideration
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below are the details on how to use brand properties ._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+1. COLORS TO USE (#108E82, #FFC1A3, #EE4428, #115693)
+2. Font (Luckiest guy)
+3. Fontawesome Icons
+   
+   
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Pages
+1. `Dashboard` </br>
+<img src="https://github.com/Shieldtail/development-doc/blob/main/images/ui-dt.jpg" alt="dashboard image" height="400px" width="800px">
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+2. `Coming Soon`
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->

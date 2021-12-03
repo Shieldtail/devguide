@@ -82,16 +82,17 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Django framework is more famouse for its security and dynamic programming techniques, We observed the demand of Django CMS as we only have standalone outstanding wagtail CMS available on internet so here we are making some effort to make a reliable and modern CMS as easy as wordpress.
+Shieldtail is a lightweight CMS for Django framework, Which makes secure development more easy for developer who are more concerned with the security issues.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Here's why chossing Shieldtail:
+* Dynamic features which enables reducing time cost.
+* Easy to use for anyone who don't understand programming.
+* One click server deployment on as many servers you want.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Shieldtail use theme and plugin support to develope a website, In order to use shieldtail you need to explore the theme marketplace for your desired template you want to implement on your website. We use modern programming techniques for users to make UI more comfortable.
 
-Use the `BLANK_README.md` to get started.
+This Document is for `Developers` & `contributers` only.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -99,16 +100,21 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+We use mordern and emerging programming languages for development, Which are as follow:
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python](https://nextjs.org/)
+* [Django Framework - python](https://reactjs.org/)
+* [Javascript](https://vuejs.org/)
+* [Nginx](https://angular.io/)
+* [Gunicorn - wsgi](https://svelte.dev/)
+* [CSS - Bootstrap](https://laravel.com)
+* [Github API](https://getbootstrap.com)
+* [Travis CI](https://jquery.com)
+* [Firebase](https://jquery.com)
+* [Amazon EC2](https://jquery.com)
+* [Pythonanywhere](https://jquery.com)
+* [SQLite3](https://jquery.com)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

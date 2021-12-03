@@ -102,18 +102,19 @@ This Document is for `Developers` & `contributers` only.
 
 We use mordern and emerging programming languages for development, Which are as follow:
 
-* [Python](https://nextjs.org/)
-* [Django Framework - python](https://reactjs.org/)
-* [Javascript](https://vuejs.org/)
-* [Nginx](https://angular.io/)
-* [Gunicorn - wsgi](https://svelte.dev/)
-* [CSS - Bootstrap](https://laravel.com)
-* [Github API](https://getbootstrap.com)
-* [Travis CI](https://jquery.com)
-* [Firebase](https://jquery.com)
-* [Amazon EC2](https://jquery.com)
-* [Pythonanywhere](https://jquery.com)
-* [SQLite3](https://jquery.com)
+* [Python](https://www.python.org/)
+* [Django Framework - python](https://docs.djangoproject.com/en/3.2/)
+* [Javascript](https://www.javascript.com/)
+* [Nginx](https://www.nginx.com/)
+* [Gunicorn - wsgi](https://gunicorn.org/)
+* [Modern CSS](https://github.com/w3c/csswg-drafts)
+* [Github REST API](https://docs.github.com/en/rest)
+* [Django REST API Framework](https://www.django-rest-framework.org/)
+* [Travis CI](https://travis-ci.org/)
+* [Firebase](https://firebase.google.com/)
+* [Amazon EC2](https://go.aws/3ru8svT)
+* [Pythonanywhere](https://www.pythonanywhere.com/)
+* [SQLite](https://www.sqlite.org/index.html)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>

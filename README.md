@@ -51,8 +51,8 @@
       <a href="#getting-started-with-frontend">Getting Started with Frontend</a>
       <ul>
         <li><a href="#languages">Languages</a></li>
-        <li><a href="#Brand-Consideration">Brand Consideration</a></li>
-        <li><a href="#Pages">Pages</a></li>
+<!--         <li><a href="#Brand-Consideration">Brand Consideration</a></li> -->
+        <li><a href="#demo-pages">Pages</a></li>
         <li><a href="#roadmap-1.1">Roadmap</a></li>
       </ul>
     </li>
@@ -158,22 +158,10 @@ List of pages is as follows:
 * [Javascript](https://www.w3schools.com/js/default.asp)
 
 
-### Brand Consideration
 
-_Below are the details on how to use brand properties ._
-
-1. COLORS TO USE (#108E82, #FFC1A3, #EE4428, #115693)
-2. Font (Luckiest guy)
-3. Fontawesome Icons
-   
-   
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- USAGE EXAMPLES -->
-### Pages
+### Demo Pages
 1. `Dashboard` </br>
-<img src="https://github.com/Shieldtail/development-doc/blob/main/images/ui-dt.jpg" alt="dashboard image" height="400px" width="800px">
+<img src="https://github.com/Shieldtail/development-doc/blob/main/images/dashboard-dt-1.1.jpg" alt="dashboard image" height="400px" width="600px">
 
 2. `Coming Soon` </br>
 <img src="https://github.com/Shieldtail/development-doc/blob/main/images/sign-up-dt.jpg" alt="signup" height="400px" width="600px">

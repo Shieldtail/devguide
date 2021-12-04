@@ -27,8 +27,8 @@
     <a href="https://shieldtail.github.io"><strong>Explore the user docs »</strong></a>
     <br />
     <br />
-    <a href="https://youtube.com">View Demo</a>
-    ·
+    <a href="https://github.com/Shieldtail/development-doc/issues/new?assignees=thehassantahir&labels=Contribution&template=contribution-request.md&title=contribution">Contribute</a>
+    .
     <a href="https://github.com/Shieldtail/Shieldtail/issues/new?assignees=&labels=&template=bug_report.md&title=">Report Bug</a>
     ·
     <a href="https://github.com/Shieldtail/Shieldtail/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
@@ -69,11 +69,9 @@
     </ul>
     <li><a href="#code-of-conduct">Code of Conduct</a></li>
     <ul>
-        <li><a href="#Our-Pledge">Our Pledge</a></li>
         <li><a href="#Our-Standards">Our Standards</a></li>
         <li><a href="#Our-Responsibilities">Our Responsibilities</a></li>
         <li><a href="#Scope">Scope</a></li>
-        <li><a href="#Enforcement">Enforcement</a></li>
       </ul>
     <li><a href="#contributing">Contribution</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -100,7 +98,7 @@ Here's why chossing Shieldtail:
 
 Shieldtail use theme and plugin support to develope a website, In order to use shieldtail you need to explore the theme marketplace for your desired template you want to implement on your website. We use modern programming techniques for users to make UI more comfortable.
 
-This Document is for `Developers` & `contributers` only.
+**This Document is for `Developers` & `contributers` only.**
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -212,15 +210,6 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- THIS IS CODE OF CONDUCT  -->
 ## Code of Conduct
 
-### Our Pledge
-
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-education, socio-economic status, nationality, personal appearance, race,
-religion, or sexual identity and orientation.
-
 ### Our Standards
 
 Examples of behavior that contributes to creating a positive environment
@@ -264,19 +253,6 @@ address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
 
-### Enforcement
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at {{ email }}. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
-
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -284,7 +260,7 @@ members of the project's leadership.
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with **[new features](https://github.com/Shieldtail/Shieldtail/issues/new?assignees=&labels=&template=feature_request.md&title=)**
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -293,8 +269,9 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+If you want to become a member of the organization please open an Contribution Issue [here](https://github.com/Shieldtail/development-doc/issues/new?assignees=thehassantahir&labels=Contribution&template=contribution-request.md&title=contribution)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
@@ -309,24 +286,27 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Support - [Email](mailto:support.shieldtail@pm.me) - email@example.com
-
+1. Email - [support.shieldtail@pm.me](mailto:support.shieldtail@pm.me)
+2. Creator - [info.hassantahir@gmail.com](mailto:info.hassantahir@gmail.com) - Hassan Tahir
+3. Twitter - [thehassantahir](https://twitter.com/thehassantahir)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 ## Sponsor Us
-* `we are coming soon` 
+* **we are launching soon** 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Development document credit list:
-
-* [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
-* [thesabreens](github.com/thesabreens)
+Our highly appreciated Open-source development community members who worked in this project to make everthing smooth and easy. 
+* [Hassan Tahir - Initiator & Creator](https://github.com/thehassantahir)
+* [Javeria Saeed - Front-end Developer](https://github.com/janeriasaeed)
+* [Javeria Saeed Abbasi - Front-end Developer](https://github.com/Javeria-Saeed-Abbasi)
+* [Atiya Sabreen - Development Manager](https://github.com/thesabreens)
+* [Contributor Covenant - code of conduct author](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>

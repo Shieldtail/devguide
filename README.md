@@ -24,7 +24,7 @@
   <p align="center">
     A lightweight Django CMS for developers 
     <br />
-    <a href="https://shieldtail.github.io"><strong>Explore the docs »</strong></a>
+    <a href="https://shieldtail.github.io"><strong>Explore the user docs »</strong></a>
     <br />
     <br />
     <a href="https://youtube.com">View Demo</a>

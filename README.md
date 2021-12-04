@@ -58,7 +58,7 @@
     </li>
     <li><a href="#getting-started-with-backend">Getting started with Back-end</a></li>
       <ul>
-        <li><a href="#functions">Functions</a></li>
+        <li><a href="#function">Functions</a></li>
         <li><a href="#server">Server</a></li>
         <li><a href="#production">Production</a></li>
         <li><a href="#roadmap-1.2">Roadmap</a></li>

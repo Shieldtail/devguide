@@ -162,7 +162,10 @@ List of pages is as follows:
 1. `Signup` </br>
 <img src="https://github.com/Shieldtail/development-doc/blob/main/images/signup-ut.jpg" alt="signup" height="400px" width="600px">
 
-2. `Dashboard` </br>
+2. `login` </br>
+<img src="https://github.com/Shieldtail/development-doc/blob/main/images/login-ud.jpg" alt="login" height="400px" width="600px">
+
+3. `Dashboard` </br>
 <img src="https://github.com/Shieldtail/development-doc/blob/main/images/dashboard-dt-1.1.jpg" alt="dashboard image" height="400px" width="600px">
 
 

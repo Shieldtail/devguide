@@ -175,8 +175,8 @@ _Below are the details on how to use brand properties ._
 1. `Dashboard` </br>
 <img src="https://github.com/Shieldtail/development-doc/blob/main/images/ui-dt.jpg" alt="dashboard image" height="400px" width="800px">
 
-2. `Coming Soon`
-
+2. `Coming Soon` </br>
+<img src="https://github.com/Shieldtail/development-doc/blob/main/images/sign-up-dt.jpg" alt="signup" height="400px" width="600px">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

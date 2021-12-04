@@ -53,22 +53,30 @@
         <li><a href="#languages">Languages</a></li>
         <li><a href="#Brand-Consideration">Brand Consideration</a></li>
         <li><a href="#Pages">Pages</a></li>
+        <li><a href="#roadmap-1.1">Roadmap</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Back-end</a></li>
+    <li><a href="#getting-started-with-backend">Getting started with Back-end</a></li>
       <ul>
-        <li><a href="#roadmap">Roadmap</a></li>
+        <li><a href="#functions">Functions</a></li>
         <li><a href="#server">Server</a></li>
         <li><a href="#production">Production</a></li>
+        <li><a href="#roadmap-1.2">Roadmap</a></li>
       </ul>
     <li><a href="#api">API</a></li>
     <ul>
       <li><a href="#platforms">API Platforms</a></li>
     </ul>
     <li><a href="#code-of-conduct">Code of Conduct</a></li>
+    <ul>
+        <li><a href="#Our-Pledge">Our Pledge</a></li>
+        <li><a href="#Our-Standards">Our Standards</a></li>
+        <li><a href="#Our-Responsibilities">Our Responsibilities</a></li>
+        <li><a href="#Scope">Scope</a></li>
+        <li><a href="#Enforcement">Enforcement</a></li>
+      </ul>
     <li><a href="#contributing">Contribution</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#support">Support</a></li>
     <li><a href="#sponsor">Sponsore us</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -163,7 +171,7 @@ _Below are the details on how to use brand properties ._
 
 
 <!-- USAGE EXAMPLES -->
-## Pages
+### Pages
 1. `Dashboard` </br>
 <img src="https://github.com/Shieldtail/development-doc/blob/main/images/ui-dt.jpg" alt="dashboard image" height="400px" width="800px">
 
@@ -174,7 +182,7 @@ _Below are the details on how to use brand properties ._
 
 
 <!-- ROADMAP -->
-## Roadmap
+### Roadmap 1.1
 
 - [x] Add Changelog
 - [x] Add back to top links
@@ -189,6 +197,93 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+## Getting started with Backend
+1. Coming soon
+
+### Function
+* comimg soon
+
+### Server
+* coming soon
+
+### Production
+* coming soon
+
+### Road map
+* coming soon
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- THIS IS CODE OF CONDUCT  -->
+## Code of Conduct
+
+### Our Pledge
+
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, gender identity and expression, level of experience,
+education, socio-economic status, nationality, personal appearance, race,
+religion, or sexual identity and orientation.
+
+### Our Standards
+
+Examples of behavior that contributes to creating a positive environment
+include:
+
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
+
+Examples of unacceptable behavior by participants include:
+
+* The use of sexualized language or imagery and unwelcome sexual attention or
+  advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or electronic
+  address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
+
+### Our Responsibilities
+
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
+
+Project maintainers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.
+
+### Scope
+
+This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.
+
+### Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at {{ email }}. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.
+
+Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -220,44 +315,24 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Support - [Email](mailto:support.shieldtail@pm.me) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+## Sponsor Us
+* `we are coming soon` 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Development document credit list:
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
+* [thesabreens](github.com/thesabreens)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png

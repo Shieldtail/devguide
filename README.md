@@ -160,11 +160,14 @@ List of pages is as follows:
 
 
 ### Demo Pages
-1. `Dashboard` </br>
+
+1. `Signup` </br>
+<img src="https://github.com/Shieldtail/development-doc/blob/main/images/signup-ut.jpg" alt="signup" height="400px" width="600px">
+
+2. `Dashboard` </br>
 <img src="https://github.com/Shieldtail/development-doc/blob/main/images/dashboard-dt-1.1.jpg" alt="dashboard image" height="400px" width="600px">
 
-2. `Coming Soon` </br>
-<img src="https://github.com/Shieldtail/development-doc/blob/main/images/sign-up-dt.jpg" alt="signup" height="400px" width="600px">
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -172,13 +175,16 @@ List of pages is as follows:
 <!-- ROADMAP -->
 ### Roadmap 1.1
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] All frontend pages
+- [ ] Social Icons
+- [ ] User Testing
+- [ ] Frontend Mockup Animation
 - [ ] Multi-language Support
     - [ ] Chinese
-    - [ ] Spanish
+    - [ ] Urdu/hindi
+- [ ] New features Addition
+- [ ] Page Paint Optimization 
+
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 

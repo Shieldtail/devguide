@@ -310,6 +310,7 @@ Our highly appreciated Open-source development community members who worked in t
 * [Javeria Saeed - Front-end Developer](https://github.com/janeriasaeed)
 * [Javeria Saeed Abbasi - Front-end Developer](https://github.com/Javeria-Saeed-Abbasi)
 * [Atiya Sabreen - Development Manager](https://github.com/thesabreens)
+* [Syed Zamin Zaidi](https://github.com/syedzaminzaidi)
 * [Contributor Covenant - code of conduct author](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
 

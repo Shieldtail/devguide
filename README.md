@@ -308,9 +308,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Our highly appreciated Open-source development community members who worked in this project to make everthing smooth and easy. 
 * [Hassan Tahir - Initiator & Creator](https://github.com/thehassantahir)
 * [Javeria Saeed - Front-end Developer](https://github.com/janeriasaeed)
-* [Javeria Saeed Abbasi - Front-end Developer](https://github.com/Javeria-Saeed-Abbasi)
 * [Atiya Sabreen - Development Manager](https://github.com/thesabreens)
-* [Syed Zamin Zaidi](https://github.com/syedzaminzaidi)
+* [Syed Zamin Zaidi - Backend Engineer](https://github.com/syedzaminzaidi)
 * [Contributor Covenant - code of conduct author](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
 

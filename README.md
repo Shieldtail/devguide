@@ -194,7 +194,11 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 
 ## Getting started with Backend
-1. Coming soon
+1. SQLite
+2. NoSQL
+3. Nginx
+4. wsgi
+5. Gunicorn
 
 ### Function
 * comimg soon

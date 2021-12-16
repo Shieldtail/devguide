@@ -184,6 +184,7 @@ List of pages is as follows:
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Urdu/hindi
+    - [ ] English
 - [ ] New features Addition
 - [ ] Page Paint Optimization 
 

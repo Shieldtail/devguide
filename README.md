@@ -5,7 +5,7 @@
 <img alt="badge" src="https://img.shields.io/github/languages/count/shieldtail/shieldtail?style=for-the-badge"> &nbsp;
 <img alt="badge" src="https://img.shields.io/github/repo-size/shieldtail/shieldtail?style=for-the-badge">
 <img alt="badge" src="https://img.shields.io/github/downloads/shieldtail/shieldtail/total?style=for-the-badge">
-<!-- <img alt="badge" src="https://img.shields.io/github/all-contributors/shieldtail/shieldtail/master?style=for-the-badge"> -->
+<img alt="badge" src="https://img.shields.io/badge/Number%20of%20Repos-9-brightgreen?style=for-the-badge&logo=appveyor">
 <img alt="badge" src="https://img.shields.io/github/deployments/shieldtail/shieldtail/shieldtail.github.io?style=for-the-badge">
   
   </div>

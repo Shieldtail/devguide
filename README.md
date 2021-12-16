@@ -333,7 +333,7 @@ Our highly appreciated Open-source development community members who worked in t
 * [Hassan Tahir - Initiator & Creator](https://github.com/thehassantahir)
 * [Javeria Saeed - Front-end Developer](https://github.com/janeriasaeed)
 * [Atiya Sabreen - Development Manager](https://github.com/thesabreens)
-* [Syed Zamin Zaidi - Backend Engineer](https://github.com/syedzaminzaidi)
+<!-- * [Syed Zamin Zaidi - Backend Engineer](https://github.com/syedzaminzaidi) -->
 * [Contributor Covenant - code of conduct author](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
 

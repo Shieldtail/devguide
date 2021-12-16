@@ -1,7 +1,6 @@
-<div id="top"></div>
 
 <div align="center">
-  
+
 <img alt="badge" src="https://img.shields.io/github/languages/count/shieldtail/shieldtail?style=for-the-badge"> &nbsp;
 <img alt="badge" src="https://img.shields.io/github/repo-size/shieldtail/shieldtail?style=for-the-badge">
 <img alt="badge" src="https://img.shields.io/github/downloads/shieldtail/shieldtail/total?style=for-the-badge">
@@ -333,7 +332,6 @@ Our highly appreciated Open-source development community members who worked in t
 * [Hassan Tahir - Initiator & Creator](https://github.com/thehassantahir)
 * [Javeria Saeed - Front-end Developer](https://github.com/janeriasaeed)
 * [Atiya Sabreen - Development Manager](https://github.com/thesabreens)
-<!-- * [Syed Zamin Zaidi - Backend Engineer](https://github.com/syedzaminzaidi) -->
 * [Contributor Covenant - code of conduct author](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
 

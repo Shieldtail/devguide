@@ -321,7 +321,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 ## Sponsor Us
-* **we are launching soon** 
+[Support us on Patreon](https://www.patreon.com/hassantahir)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

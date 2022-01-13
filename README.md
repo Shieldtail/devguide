@@ -52,13 +52,13 @@
         <li><a href="#Our-Responsibilities">Our Responsibilities</a></li>
         <li><a href="#Scope">Scope</a></li>
       </ul>
-    <li><a href="#contributing">Contribution</a></li>
+    <li><a href="#contribution">Contribution</a></li>
     <li><a href="#development-enviroment">Development Enviroment</a></li>
     <li><a href="#required-features">Required Features</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#sponsor-us">Sponsore us</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgments">Contributors</a></li>
   </ol>
 </details>
 
@@ -142,7 +142,7 @@ further defined and clarified by project maintainers.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribution
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -176,10 +176,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
+We have a few channels for contact:
 
-1. Email - [support.shieldtail@pm.me](mailto:support.shieldtail@pm.me)
-2. Creator - [info.hassantahir@gmail.com](mailto:info.hassantahir@gmail.com) - Hassan Tahir
-3. Twitter - [thehassantahir](https://twitter.com/thehassantahir)
+- [Discord](#):
+  - `#general` for those using Shieldtail.
+  - `#contributors` for those wanting to contribute to the Shieldtail core.
+- Email [support.shieldtail@pm.me](mailto:support.shieldtail@pm.me)
+- [GitHub Issues](https://github.com/shieldtail/devguide/issues)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

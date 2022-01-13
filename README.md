@@ -46,27 +46,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started-with-frontend">Getting Started with Frontend</a>
-      <ul>
-        <li><a href="#languages">Languages</a></li>
-<!--         <li><a href="#Brand-Consideration">Brand Consideration</a></li> -->
-        <li><a href="#demo-pages">Pages</a></li>
-        <li><a href="#roadmap-1.1">Roadmap</a></li>
-      </ul>
-    </li>
-    <li><a href="#getting-started-with-backend">Getting started with Back-end</a></li>
-      <ul>
-        <li><a href="#function">Functions</a></li>
-        <li><a href="#server">Server</a></li>
-        <li><a href="#production">Production</a></li>
-        <li><a href="#roadmap-1.2">Roadmap</a></li>
-      </ul>
-    <li><a href="#Getting-started-with-Databases">Databases</a></li>
-    <li><a href="#api">API</a></li>
-    <ul>
-      <li><a href="#platforms">API Platforms</a></li>
-    </ul>
     <li><a href="#code-of-conduct">Code of Conduct</a></li>
     <ul>
         <li><a href="#Our-Standards">Our Standards</a></li>
@@ -74,6 +53,8 @@
         <li><a href="#Scope">Scope</a></li>
       </ul>
     <li><a href="#contributing">Contribution</a></li>
+    <li><a href="#development-enviroment">Development Enviroment</a></li>
+    <li><a href="#required-features">Required Features</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#sponsor-us">Sponsore us</a></li>
     <li><a href="#license">License</a></li>
@@ -102,137 +83,15 @@ Shieldtail use theme and plugin support to develope a website, In order to use s
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-### Built With
-
-We use mordern programming languages and platforms which produces reliability, Which are as follow:
-
-* [Python](https://www.python.org/)
-* [Django Framework - python](https://docs.djangoproject.com/en/3.2/)
-* [Javascript](https://www.javascript.com/)
-* [Nginx](https://www.nginx.com/)
-* [Gunicorn - wsgi](https://gunicorn.org/)
-* [Modern CSS](https://github.com/w3c/csswg-drafts)
-* [Github REST API](https://docs.github.com/en/rest)
-* [Django REST API Framework](https://www.django-rest-framework.org/)
-* [Travis CI](https://travis-ci.org/)
-* [Firebase](https://firebase.google.com/)
-* [Amazon EC2](https://go.aws/3ru8svT)
-* [Pythonanywhere](https://www.pythonanywhere.com/)
-* [SQLite](https://www.sqlite.org/index.html)
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started with frontend
-_Every contributer has full right to suggest more variations in frontend as we are not stick to the given images only_ </br>
-_SUGGEST NEW FEATURES/VARIATIONS IN [FEATURES BOX](https://github.com/Shieldtail/development-doc/issues/new?assignees=&labels=&template=feature_request.md&title=)_ </br> </br>
-Front-end consist of 15 different pages and more to come as we are very encouraged to develope exciting features.</br>
-List of pages is as follows:
-* `Sign up`
-* `Login`
-* `Dashboard`
-* `Users`
-* `Media library`
-* `Pages`
-* `Theme`
-* `Plugins`
-* `Appearance`
-* `Settings`
-* `Push to Github`
-* `Deploy to Production`
-* `Contact Support`
-* `Privacy Policy`
-* `Terms & Services`
-
-### Languages
-
-* [HTML5](https://www.w3schools.com/html/default.asp)
-* [CSS](https://www.w3schools.com/css/default.asp)
-* [Javascript](https://www.w3schools.com/js/default.asp)
-
-
-
-### Demo Pages
-
-1. `Signup` </br>
-<img src="https://github.com/Shieldtail/development-doc/blob/main/images/signup-ut.jpg" alt="signup" height="400px" width="600px">
-
-2. `login` </br>
-<img src="https://github.com/Shieldtail/development-doc/blob/main/images/login-dr.jpg" alt="login" height="400px" width="600px">
-
-3. `Dashboard` </br>
-<img src="https://github.com/Shieldtail/development-doc/blob/main/images/dashboard-dt-1.1.jpg" alt="dashboard image" height="400px" width="600px">
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- ROADMAP -->
-### Roadmap 1.1
-
-- [ ] All frontend pages
-- [ ] Social Icons
-- [ ] User Testing
-- [ ] Frontend Mockup Animation
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Urdu/hindi
-    - [ ] English
-- [ ] New features Addition
-- [ ] Page Paint Optimization 
-
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-## Getting started with Backend
-1. SQLite
-2. NoSQL
-3. Nginx
-4. wsgi
-5. Gunicorn
-
-### Function
-* comimg soon
-
-### Server
-* coming soon
-
-### Production
-* coming soon
-
-### Road map
-* coming soon
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-## Getting started with Databases
-1. MongoDB
-2. Firebase
-
-### Function
-* comimg soon
-
-### Server
-* coming soon
-
-### Production
-* coming soon
-
-### Road map
-* coming soon
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+## Built with
+*
+*
+*
+*
+*
+*
+*
+*
 
 <!-- THIS IS CODE OF CONDUCT  -->
 ## Code of Conduct
@@ -300,6 +159,11 @@ If you want to become a member of the organization please open an Contribution I
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Development Enviroment
+will be updated soon
+
+## Required Features
+Will be listed soon 
 
 <!-- LICENSE -->
 ## License
@@ -321,7 +185,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 ## Sponsor Us
-[Support us on Patreon](https://www.patreon.com/hassantahir)
+[Support us on Patreon](https://www.patreon.com/hassantahir), It will help us to grow & develope better.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

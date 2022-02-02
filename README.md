@@ -44,21 +44,20 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Repositories</a></li>
+        <li><a href="#built-with">Issues</a></li>
+        <li><a href="#acknowledgments">Contributors</a></li>    
       </ul>
     </li>
-    <li><a href="#code-of-conduct">Code of Conduct</a></li>
-    <ul>
-        <li><a href="#Our-Standards">Our Standards</a></li>
-        <li><a href="#Our-Responsibilities">Our Responsibilities</a></li>
-        <li><a href="#Scope">Scope</a></li>
-      </ul>
-    <li><a href="#contribution">Contribution</a></li>
+    <li><a href="#CODE-OF-CONDUCT.md">Code of Conduct</a></li>
+    <li><a href="#CONTRIBUTE.md">Contribution</a></li>
     <li><a href="#development-enviroment">Development Enviroment</a></li>
     <li><a href="#required-features">Required Features</a></li>
+    <li><a href="#required-features">In Progress</a></li>
+    <li><a href="#required-features">Code Review</a></li>
+    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#sponsor-us">Sponsore us</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgments">Contributors</a></li>
   </ol>
 </details>
 
